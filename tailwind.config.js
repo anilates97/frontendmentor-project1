@@ -9,6 +9,7 @@ export default {
     colors: {
       primary: {
         darkCyan: "hsl(158, 36%, 37%)",
+        veryDarkCyan: "#1A4031",
         dark: "hsl(210, 50%, 30%)",
       },
       neutral: {
